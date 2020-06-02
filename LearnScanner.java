@@ -3,7 +3,7 @@ public class LearnScanner {
 
     public static final Scanner input = new Scanner(System.in);
     public static void main(String[] args) {
-        System.out.print("nigga wassup wuss yo full name");
+        System.out.print("wassup wuss yo full name");
         String name = input.nextLine();
         System.out.print("aight then " + name+ " where do you wanna go? ");
         String place = input.nextLine();
